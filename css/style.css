@@ -1,0 +1,150 @@
+body{
+    text-align: center;
+    background-color: #e4f8f8;
+    margin: 0 ;
+    font-family: 'Merriweather', serif;
+
+}
+
+
+h1{
+    color:#66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    line-height: 3px;
+}
+h2{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-top: 100px;
+   
+}
+h3{color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+.first{
+
+    margin: auto;
+}
+hr{
+border: dotted grey 8px;
+border-bottom: none;
+width: 5%;
+margin: 100px auto 100px auto;
+}
+
+p{
+
+    line-height: 2;
+}
+.second-cloud{
+
+   position: absolute;
+   left: 500px;
+   top: 250px;
+}
+
+.top-container{
+position: relative;
+padding-top:100px ;
+margin-bottom: 40px;
+
+}
+.first-cloud{
+    position: absolute;
+    right: 450px;
+    top: 70px;
+
+}
+.skill-row{
+width: 65%;
+margin: 50PX auto 100PX auto;
+
+line-height: 2;
+}
+.skills{
+    width: 25%;
+    margin: auto;
+}
+.codeimg{
+ width: 40%;
+
+
+padding: auto;
+border-radius: 30px;
+
+}
+.tension{
+
+width: 100%;
+margin: auto;
+
+
+}
+.chilli{
+
+
+margin-right:10px;
+
+}
+.chillies-doc{
+margin: auto;
+}
+
+.middle-container{
+    margin-top: 50px auto 50px auto;
+    
+}
+.intro{
+    width: 20%;
+    margin: auto;
+}
+.contact-me{
+    width: 40%;
+margin: 40px auto 40px;
+
+
+}
+.my-button {
+	box-shadow:inset 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Montserrat;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.my-button:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.my-button:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+a{
+color: #11999e;
+font-family: Montserrat;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{
+    color:#eaf6f6;
+   }
+   .copyright{
+       color: #eaf6f6;
+       font-size: 1rem;
+       padding: 20px 0px;
+   }
